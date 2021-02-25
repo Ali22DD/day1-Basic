@@ -1,0 +1,27 @@
+header h1 {
+    text-align: center;
+}
+
+body {
+    width: 1000px;
+    height: auto;
+}
+
+header img {
+    width: max-content;
+    height: auto;
+}
+
+link{
+    display: inline;
+    float: inline-end;
+}
+
+.img__1 {
+    width: 300px;
+    height: auto;
+}
+.img__2 {
+    width: 300px;
+    height: auto;
+}
